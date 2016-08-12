@@ -1,6 +1,6 @@
 {
   "name": "restful-keystone-onode",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Automatic RESTful API enabler for KeystoneJS supporting pagination",
   "author": {
     "name": "jjhesk",
